@@ -2,6 +2,6 @@ class AB
 {
 psvm()
 {
-Syso("Hello");
+Syso("Hello World");
 }
 }
